@@ -16,9 +16,11 @@ In this study, 249 mice who were identified with SCC tumors received treatment w
 
 ![Summary_Statistics](https://user-images.githubusercontent.com/24644072/204169782-c588659e-c908-4f37-9716-49528e156c0e.PNG)
 
-## Bar and Pie Charts
+## Bar Charts
 
 ![Bar_Chart](https://user-images.githubusercontent.com/24644072/204169794-01722a92-4704-4670-9e8c-b6a7a4cf3303.PNG)
+
+## Pie Charts
 
 ![Pie_Chart](https://user-images.githubusercontent.com/24644072/204169798-459c64e6-2087-4fc3-9ac0-8d06344f016d.PNG)
 
@@ -26,9 +28,11 @@ In this study, 249 mice who were identified with SCC tumors received treatment w
 
 ![Quartiles _Outliers_Boxplots](https://user-images.githubusercontent.com/24644072/204169810-3f3623fa-a99e-495b-99bd-631f7916aa75.PNG)
 
-## Line and Scatter Plots
+## Line Plots
 
 ![Line_Plots](https://user-images.githubusercontent.com/24644072/204169818-104db4ed-edb7-404d-8869-87320820072e.PNG)
+
+## Scatter Plots
 
 ![Scatter_Plots](https://user-images.githubusercontent.com/24644072/204169824-28b1b638-5148-4251-aecc-2afaa86cf003.PNG)
 
